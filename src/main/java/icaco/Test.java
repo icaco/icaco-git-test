@@ -1,0 +1,4 @@
+package icaco;
+
+class Test {
+}
